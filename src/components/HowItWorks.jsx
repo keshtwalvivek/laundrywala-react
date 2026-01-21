@@ -6,22 +6,22 @@ const steps = [
   {
     title: "Effortless Scheduling",
     desc: "Book Your Laundry Pickup in Just a Few Clicks.",
-    img: "src/assets/effortless-scheduling.webp",
+    img: "/effortless-scheduling.webp",
   },
   {
     title: "Doorstep Pickup",
     desc: "Seamless Pickup at Your Convenience.",
-    img: "src/assets/doorstep-pickup.webp",
+    img: "/doorstep-pickup.webp",
   },
   {
     title: "Professional Cleaning",
     desc: "Eco-Friendly Cleaning for Every Fabric.",
-    img: "src/assets/professional-cleaning.webp",
+    img: "/professional-cleaning.webp",
   },
   {
     title: "On-Time Delivery",
     desc: "Fresh, Clean Clothes Delivered Right to Your Doorstep.",
-    img: "src/assets/on-time-delivery.webp",
+    img: "/on-time-delivery.webp",
   },
 ];
 

@@ -1,7 +1,6 @@
 import React from "react";
 
 // ✅ BEST PRACTICE: import image
-import HeroImage from "@/assets/Aboutherosection.webp";
 
 export default function AboutHeroSection() {
   return (
@@ -42,7 +41,7 @@ export default function AboutHeroSection() {
           >
             {/* IMAGE */}
             <img
-              src={HeroImage}
+              src={"/Aboutherosection.webp"}
               alt="Laundrywala Service"
               className="w-full h-full "
             />

@@ -46,7 +46,7 @@ export default function Navbar() {
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-2">
             <img
-              src="src/assets/laundrywalaLogo.webp"
+              src="/laundrywalaLogo.webp"
               alt="Laundrywala"
               className="h-14 w-44"
             />

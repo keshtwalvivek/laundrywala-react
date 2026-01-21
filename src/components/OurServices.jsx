@@ -7,32 +7,32 @@ const services = [
   {
     title: "Laundry",
     desc: "Enjoy fresh, clean, folded laundry — more time for what matters most.",
-    img: "src/assets/laundryImg-1.jpg",
+    img: "/laundryImg-1.jpg",
   },
   {
     title: "Dry Cleaning",
     desc: "Refresh your garments with our expert dry cleaning — book now!",
-    img: "src/assets/service-dry-cleaning.jpg",
+    img: "/service-dry-cleaning.jpg",
   },
   {
     title: "Ironing",
     desc: "Get wrinkle-free perfection — expert ironing that keeps you sharp!",
-    img: "src/assets/service-ironing.jpg",
+    img: "/service-ironing.jpg",
   },
   {
     title: "Shoes Cleaning",
     desc: "Revive your shoes — fresh, spotless, and odor-free.",
-    img: "src/assets/service-shoes.jpg",
+    img: "/service-shoes.jpg",
   },
   {
     title: "Curtain Cleaning",
     desc: "Deep cleaning for curtains — removes dust, stains, and allergens.",
-    img: "src/assets/service-curtain-cleaning.jpg",
+    img: "/service-curtain-cleaning.jpg",
   },
   {
     title: "Carpet Cleaning",
     desc: "Professional carpet cleaning — deep stain removal and fresh feel.",
-    img: "src/assets/service-carpet-cleaning.jpg",
+    img: "/service-carpet-cleaning.jpg",
   },
 ];
 

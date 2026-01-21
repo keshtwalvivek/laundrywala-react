@@ -41,15 +41,15 @@ export default function HeroSection() {
           <div className="flex sm:flex-row gap-6 mt-8">
             {[
               {
-                img: "src/assets/laundrywala-discount-offer-icon.png",
+                img: "/laundrywala-discount-offer-icon.png",
                 text: "Customer Support",
               },
               {
-                img: "src/assets/laundrywala-express-laundry-delivery-icon.png",
+                img: "/laundrywala-express-laundry-delivery-icon.png",
                 text: "Super Fast Delivery",
               },
               {
-                img: "src/assets/ChatGPT-Image-Sep-10-2025-04_10_45-PM-removebg-preview.png",
+                img: "/ChatGPT-Image-Sep-10-2025-04_10_45-PM-removebg-preview.png",
                 text: "Fresh & Eco-Friendly",
               },
             ].map((item, i) => (
@@ -68,7 +68,7 @@ export default function HeroSection() {
         {/* RIGHT IMAGE */}
         <div className="md:w-1/2 flex justify-center">
           <img
-            src="src/assets/laundrywala-doorstep-laundry-delivery-service.webp"
+            src="/laundrywala-doorstep-laundry-delivery-service.webp"
             alt="Delivery Illustration"
             className="w-full max-w-md"
           />

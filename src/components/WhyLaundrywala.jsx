@@ -50,22 +50,22 @@ export default function WhyLaundrywala() {
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-x-12 gap-y-14">
           {[
             {
-              img: "src/assets/Eco-friendly.webp",
+              img: "/Eco-friendly.webp",
               title: "Eco-Friendly Cleaning Machines",
               desc: "Gentle on clothes, kind to the planet.",
             },
             {
-              img: "src/assets/woolmark.webp",
+              img: "/woolmark.webp",
               title: "Certified Wool Care Technology",
               desc: "Special care for delicate fabrics.",
             },
             {
-              img: "src/assets/expert-specialist.webp",
+              img: "/expert-specialist.webp",
               title: "Expert Fabric Specialists",
               desc: "Experience you can trust.",
             },
             {
-              img: "src/assets/sustainable-cleaning.webp",
+              img: "/sustainable-cleaning.webp",
               title: "Sustainable Cleaning Solutions",
               desc: "Clean clothes, cleaner future.",
             },

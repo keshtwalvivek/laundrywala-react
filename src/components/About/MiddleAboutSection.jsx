@@ -48,7 +48,7 @@ export default function MiddleAboutSection() {
                           h-[320px] md:h-[400px] lg:h-[520px]"
             >
               <img
-                src={"src/assets/AboutImg1.webp"}
+                src={"/AboutImg1.webp"}
                 alt="Laundrywala Store"
                 className="w-full h-full object-cover rounded-3xl"
               />
@@ -74,7 +74,7 @@ export default function MiddleAboutSection() {
                         h-[320px] md:h-[400px] lg:h-[520px]"
             >
               <img
-                src="src/assets/AboutImg2.webp" // ← adjust path if using import → src={AboutImg1}
+                src="/AboutImg2.webp" // ← adjust path if using import → src={AboutImg1}
                 // src={AboutImg1}                     // ← use this line if you imported it
                 alt="Laundrywala Store Interior"
                 className="w-full h-full object-cover rounded-3xl shadow-xl"

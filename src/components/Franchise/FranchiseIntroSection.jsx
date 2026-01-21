@@ -78,7 +78,7 @@ export default function FranchiseIntroSection() {
         {/* RIGHT IMAGE */}
         <div className="flex justify-center md:justify-end">
           <img
-            src="src/assets/AboutImg1.webp" // update your path
+            src="/AboutImg1.webp" // update your path
             alt="Laundry Franchise"
             width={500}
             height={500}

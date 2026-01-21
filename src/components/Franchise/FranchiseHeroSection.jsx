@@ -117,7 +117,7 @@ export default function FranchiseHeroSection() {
         {/* RIGHT SIDE - Single Image */}
         <div className="flex justify-center items-center">
           <img
-            src="src/assets/Aboutherosection.webp"
+            src="/Aboutherosection.webp"
             className="rounded-2xl object-cover w-full md:w-[70%]"
             alt="Laundry Franchise"
           />
