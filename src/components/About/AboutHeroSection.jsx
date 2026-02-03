@@ -44,6 +44,7 @@ export default function AboutHeroSection() {
               src={"/Aboutherosection.webp"}
               alt="Laundrywala Service"
               className="w-full h-full "
+              lazy="true"
             />
           </div>
         </div>
